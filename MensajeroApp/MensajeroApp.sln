@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeroApp", "MensajeroApp\MensajeroApp.csproj", "{F5E993F0-383A-4341-889B-0699F99E24BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeroModel", "MensajeroModel\MensajeroModel.csproj", "{831A7165-60DA-4A9E-A4CB-A777C65400BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketsUtils", "SocketsUtils\SocketsUtils.csproj", "{0F665886-3986-469C-A385-222F8AC8E239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E993F0-383A-4341-889B-0699F99E24BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E993F0-383A-4341-889B-0699F99E24BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E993F0-383A-4341-889B-0699F99E24BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E993F0-383A-4341-889B-0699F99E24BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831A7165-60DA-4A9E-A4CB-A777C65400BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831A7165-60DA-4A9E-A4CB-A777C65400BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831A7165-60DA-4A9E-A4CB-A777C65400BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831A7165-60DA-4A9E-A4CB-A777C65400BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F665886-3986-469C-A385-222F8AC8E239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F665886-3986-469C-A385-222F8AC8E239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F665886-3986-469C-A385-222F8AC8E239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F665886-3986-469C-A385-222F8AC8E239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
